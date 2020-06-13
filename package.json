@@ -4,7 +4,7 @@
   "description": "Simple and reliable bridge between Node.js and PhantomJS / SlimerJS",
   "version": "2.2.4",
   "license": "MIT",
-  "repository": "baudehlo/node-phantom-simple",
+  "repository": "mam17/node-phantom-simple",
   "main": "node-phantom-simple.js",
   "files": [
     "bridge.js",
